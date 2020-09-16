@@ -1,5 +1,15 @@
-div {
-    height: 300px;
-    width: 300px;
-    color: brown;
+h1 {
+    text-align: center;
+}
+a{
+   text-decoration: none;
+   color: black;
+}
+button {
+    background-color: blue;
+    margin: 3;
+}
+img{
+    width: 400;
+
 }
